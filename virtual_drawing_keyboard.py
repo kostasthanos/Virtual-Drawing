@@ -1,3 +1,11 @@
+#===========================#
+#      Virtual Drawing      #
+#        with OpenCV        #
+#===========================#
+#    Konstantinos Thanos    #
+#    Mathematician, Msc     #
+#===========================#
+
 # Import packages
 import numpy as np
 import cv2
