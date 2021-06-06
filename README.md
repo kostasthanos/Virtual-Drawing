@@ -52,6 +52,14 @@ pts = []
 if "(cX, cY) is inside the desired frame regions then" :
   pts.append(center) # Append point to list
 ```
+If we want to save the current drawing we can use **save_draw()** function from file *[save_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/save_drawing.py)*. This function saves all drawings from black *Canvas* window in a local file with name **drawings**.
+```python
+#Name of new drawing : "drawing(number)_day-month-year_hour:minutes.jpg"
+new_drawing = 'drawing' + str(number_of_drawings+1) + '_' + date_time + '.jpg'
+
+def save_draw(image):
+  cv2.imwrite(dir_name + '/' + new_drawing, image)
+```
 
 More details about the code are being exlpained as comments inside the file *[virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)*
 
