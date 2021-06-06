@@ -46,14 +46,14 @@ if M["m00"] != 0:
 ```
 
 ### [4] Drawing and save
-In order to see our drawing we keep a list with points all of the (x,y) values from the contour's center.
+In order to see our drawing we keep a list with points (x,y) values from the contour's center.
 ```python
 pts = []
 if "(cX, cY) is inside the desired frame regions then" :
   pts.append(center) # Append point to list
 ```
 
-More details about the code are being exlpained as comments inside the file [virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)
+More details about the code are being exlpained as comments inside the file *[virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)*
 
 For a full presentation of the working project watch the [video]() in Youtube.
 
