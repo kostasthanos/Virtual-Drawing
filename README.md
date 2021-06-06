@@ -15,7 +15,7 @@ We must define the desired color which we want to be detected. For this project 
 lower_color = np.array([35,46,106])
 upper_color = np.array([86,168, 255])
 ```
-In order the find the exact values for the above arrays see project *[Hand Detection and Finger Counting](https://github.com/kostasthanos/Hand-Detection-and-Finger-Counting)*.
+In order the find the exact values for the above arrays with the trackbars method see project *[Hand Detection and Finger Counting](https://github.com/kostasthanos/Hand-Detection-and-Finger-Counting)*.
 
 ### [3] Maximum contour and center
 We find the maximum contour of the selected color. 
