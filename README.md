@@ -1,7 +1,9 @@
 # Virtual-Drawing-OpenCV
 Virtual Drawing with color detection using Python and OpenCV library.
 
-For a full presentation of the working project watch the [video]() in Youtube.
+For a full presentation of the working project watch the [video](https://www.youtube.com/watch?v=XUWEyNa0Bcw) in Youtube.
+[![Virtual-drawing-using-Python-and-OpenCV](http://img.youtube.com/vi/XUWEyNa0Bcw/0.jpg)](https://www.youtube.com/watch?v=XUWEyNa0Bcw "Virtual Drawing using Python and OpenCV | Computer Vision")
+
 
 ## Main Idea
 The main idea of this project is to allow user to draw anything "virtually" on screen with the help of a web camera.
@@ -63,7 +65,7 @@ def save_draw(image):
 
 More details about the code are being exlpained as comments inside the file *[virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)*
 
-For a full presentation of the working project watch the [video]() in Youtube.
+For a full presentation of the working project watch the [video](https://www.youtube.com/watch?v=XUWEyNa0Bcw) in Youtube.
 
 ## Author
 * **Konstantinos Thanos**
