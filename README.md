@@ -5,7 +5,6 @@ For a full presentation of the working project watch the [video](https://www.you
 
 [![Virtual-drawing-using-Python-and-OpenCV](http://img.youtube.com/vi/XUWEyNa0Bcw/0.jpg)](https://www.youtube.com/watch?v=XUWEyNa0Bcw "Virtual Drawing using Python and OpenCV | Computer Vision")
 
-
 ## Main Idea
 The main idea of this project is to allow user to draw anything "virtually" on screen with the help of a web camera.
 
