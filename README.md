@@ -63,7 +63,7 @@ def save_draw(image):
   cv2.imwrite(dir_name + '/' + new_drawing, image)
 ```
 
-More details about the code are being exlpained as comments inside the file *[virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)*
+More details about the code are being exlpained as comments inside the files *[virtual_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/virtual_drawing.py)* and *[save_drawing.py](https://github.com/kostasthanos/Virtual-Drawing-OpenCV/blob/main/save_drawing.py)*
 
 For a full presentation of the working project watch the [video](https://www.youtube.com/watch?v=XUWEyNa0Bcw) in Youtube.
 
