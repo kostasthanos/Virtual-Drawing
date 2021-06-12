@@ -48,7 +48,7 @@ if M["m00"] != 0:
 ```
 
 ### [4] Drawing and save
-In order to see our drawing we keep a list with points (x,y) values from the contour's center.
+In order to see our drawing we keep a list of points (x,y)-values from each center.
 ```python
 pts = []
 if "(cX, cY) is inside the desired frame regions then" :
