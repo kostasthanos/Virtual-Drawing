@@ -1,4 +1,4 @@
-# Virtual-Drawing-OpenCV
+# Virtual-Drawing
 Virtual Drawing with color detection using Python and OpenCV library.
 
 For a full presentation of the working project watch the [video](https://www.youtube.com/watch?v=XUWEyNa0Bcw) in Youtube or click on the image-link below.
